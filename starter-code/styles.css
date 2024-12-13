@@ -1,0 +1,16 @@
+:root {
+    --main-text-color: #2b3442;
+    --accent-text-color: #697c9a;
+    --main-accent-color: #0079ff
+    --body-color: #f6f8ff;
+    --accent-body-color: #fefefe;
+    --icon-color: #4b6a9b;
+}
+
+.dark_mode {
+    --main-text-color: #ffffff;
+    --accent-text-color: #ffffff
+    --body-color: #141d2f;
+    --accent-body-color: #1e2a47;
+    --icon-color: #ffffff;
+}
