@@ -174,7 +174,6 @@ input[type="search"]::-ms-clear {
 
 .profile-img img {
     width: 117px;
-    border: 1px solid black;
     border-radius: 100%;
 }
 
